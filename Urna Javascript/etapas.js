@@ -7,16 +7,16 @@ let etapas = [
                 numero: '38111',
                 nome: 'Craig',
                 partido: 'ABC',
-                fotos:[
-                     {url:'Craig.png', legenda: 'Vereador'}
+                fotos: [
+                    { url: 'Craig.png', legenda: 'Vereador' }
                 ]
             },
             {
                 numero: '77222',
                 nome: 'Token',
                 partido: 'DEFG',
-                fotos:[
-                    { url:'Token.png', legenda: 'Vereador'}
+                fotos: [
+                    { url: 'Token.png', legenda: 'Vereador' }
                 ]
             },
         ]
